@@ -1,0 +1,47 @@
+table,td,th,tr{
+    border: 1px solid black;
+    border-spacing: 0;
+}
+h2{
+    text-align: center;
+    background-color: green;
+    color: white;
+    margin-left: 41%;
+   margin-right: 41%;
+   border-radius: 5px;
+}
+
+h3{
+    text-align: center;
+    background-color: rgb(155, 7, 7);
+    margin-left: 34%;
+   margin-right: 34%;
+   border-radius: 5px;
+   color: white;
+}
+
+table{
+   margin-left: auto;
+   margin-right: auto;
+}
+#ab{
+    background-color: rgb(32, 32, 148);
+    color: white;
+}
+.ir{
+    background-color: green;
+    color: white;
+}
+.cd{
+    background-color: red;
+    color: white;
+}
+.ef{
+    background-color: aquamarine;
+}
+.gh{
+    background-color: rgb(247, 219, 186);
+}
+.ij{
+    background-color: rgb(144, 252, 252);
+}
